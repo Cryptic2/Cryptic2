@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **React, Python, C**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **In Space Invaders, a glitch made the aliens speed up when you shot them, and gamers loved the unexpected challenge, so it became a feature.**
 
  </div>
  
